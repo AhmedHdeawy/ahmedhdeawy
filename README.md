@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Nest JS**
 - 💬 Ask me about **PHP, Laravel, and Database**
 - 📫 How to reach me **ahmedhdeawy@gmail.com**
-- 👨‍💻 Know about my experiences and projects **https://bit.ly/3YYT8pW**
+- 👨‍💻 Know about my experiences and projects **[https://bit.ly/3YYT8pW](https://bit.ly/4jg7CLg)**
 
 
 <h3 align="left">Connect with me:</h3>
