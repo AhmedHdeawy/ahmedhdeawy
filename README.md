@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hdeawy</h1>
 
 - 🔭 I’m working as a Senior Software Engineer at **[Innoscripta](https://www.linkedin.com/company/innoscripta-ag/)**
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently reading **[Clean Code in PHP](https://www.packtpub.com/en-us/product/clean-code-in-php-9781804613870)**
 - 💬 Ask me about **PHP, Laravel, and Database**
 - 📫 How to reach me **ahmedhdeawy@gmail.com**
 - 👨‍💻 Know about my experiences and projects **[https://bit.ly/3YYT8pW](https://bit.ly/4jg7CLg)**
