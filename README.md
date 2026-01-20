@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hdeawy</h1>
 
-- 🔭 I’m working as a Senior Software Engineer at **[Innoscripta](https://www.linkedin.com/company/innoscripta-ag/)**
-- 🌱 I’m currently reading **[Clean Code in PHP](https://www.packtpub.com/en-us/product/clean-code-in-php-9781804613870)**
-- 💬 Ask me about **PHP, Laravel, and Database**
+- 🔭 I’m working as a Senior Software Engineer at **[Breadfast](https://www.linkedin.com/company/breadfast)**
+- 🌱 I’m currently reading **[Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**
+- 💬 Ask me about **Software Engineering, Software Architecture, Database, Scalability, Team Management, Career Growth, and Backend**
 - 📫 How to reach me **ahmedhdeawy@gmail.com**
 - 👨‍💻 Know about my experiences and projects **[https://bit.ly/3YYT8pW](https://bit.ly/4jg7CLg)**
 
@@ -17,12 +17,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
@@ -40,7 +40,5 @@
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhdeawy&theme=dark" alt="ahmedhdeawy" />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedhdeawy&show_icons=true&locale=en&theme=dark" alt="ahmedhdeawy" /></p>
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhdeawy&theme=chalk" alt="ahmedhdeawy" /></a> </p>
